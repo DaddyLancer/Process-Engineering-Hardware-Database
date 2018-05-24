@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PE Hardware Database", "PE Hardware Database.vbproj", "{780594CB-3C0D-4745-9C42-2F34543AD4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780594CB-3C0D-4745-9C42-2F34543AD4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780594CB-3C0D-4745-9C42-2F34543AD4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780594CB-3C0D-4745-9C42-2F34543AD4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780594CB-3C0D-4745-9C42-2F34543AD4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {868595EB-50D7-4F86-AA27-31C689F2C8E3}
+	EndGlobalSection
+EndGlobal
